@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+table {
+    border-collapse: separate;
+    border-spacing: 1px;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 1px;
+  }
+  .green {
+    background-color: green;
+  }
+  .blue {
+    background-color: blue;
+  }
+  #t-image {
+    text-align: center; /* Center the image horizontally */
+  }
+#t12{
+	text-align:center
+}
+#t13{
+	text-align:right
+}
